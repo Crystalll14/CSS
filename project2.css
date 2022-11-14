@@ -1,0 +1,36 @@
+*{
+    background-color: white;
+}
+h1 {
+    font-size: 18px;
+}
+#first {
+    color: green;
+    /* text-size-adjust: 14px; */
+    font-size: 14px;
+    font-style: italic;
+}
+.second {
+    font-size: 14px;
+    color: red;
+    font-style: italic;
+}
+
+.third {
+    font-size: 14px;
+    color: blue;
+    font-style: italic;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 25px;
+    border: 2px solid purple;
+}
+#back {
+    background: url(bckgrd.jpeg);
+}
+#ground {
+    background: url(bkgrd.jpeg);
+}
